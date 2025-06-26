@@ -1,0 +1,48 @@
+
+
+🎙 Élève : hello how are you
+✅ Correction : Hello! How are you?
+----------------------------------------
+🎙 Élève : I'm fine thank you
+✅ Correction : I'm fine, thank you.
+----------------------------------------
+🎙 Élève : where are you from
+✅ Correction : Where are you from?
+----------------------------------------
+🎙 Élève : f**k you
+✅ Correction : I'm here to help and maintain a positive environment. Let's keep the conversation respectful.
+----------------------------------------
+🎙 Élève : hello how are you
+✅ Correction : Hello! How are you?
+
+It's great to see you using English to communicate. Just a small tip: "how are you" is correct, but you could also say "How are you doing?" or "How have you been?" to make your greeting a bit more casual or detailed. How has your day been so far?
+----------------------------------------
+🎙 Élève : hi nice to meet you
+✅ Correction : Hello, nice to meet you too! How are you today?
+----------------------------------------
+🎙 Élève : finding you
+✅ Correction : Did you mean "find you"? Could you please provide more context or rephrase your sentence so we can continue the conversation?
+----------------------------------------
+🎙 Élève : Hello nice to meet you
+✅ Correction : Hello, nice to meet you too! How are you today?
+----------------------------------------
+🎙 Élève : I'm fine and you
+✅ Correction : I'm fine, thank you! And how about you? How is your day going?
+----------------------------------------
+🎙 Élève : I go to the beach
+✅ Correction : I went to the beach. How was your time at the beach? Did you enjoy it?
+----------------------------------------
+🎙 Élève : yes very good
+✅ Correction : Yes, it was very good. I'm glad to hear that! What did you do at the beach?
+----------------------------------------
+🎙 Élève : I had to go
+✅ Correction : I had to go. Where did you have to go? Was it for work or a personal errand?
+----------------------------------------
+🎙 Élève : 
+✅ Correction : I'm ready to help you with your English! Please go ahead and share a sentence or any text you'd like me to review and correct for you. Feel free to ask questions or start a conversation in English too. How are you feeling about your English skills today?
+----------------------------------------
+🎙 Élève : hello how are you
+✅ Correction : Hello! How are you? 
+
+I'm doing well, thank you for asking. How about you? How is your day going so far?
+----------------------------------------
