@@ -10,7 +10,7 @@ import wave
 # LLM client setup (streaming LLM)
 llm_client = InferenceClient(
     provider="nebius",
-    api_key="eyJhbGciOiJIUzI1NiIsImtpZCI6IlV6SXJWd1h0dnprLVRvdzlLZWstc0M1akptWXBvX1VaVkxUZlpnMDRlOFUiLCJ0eXAiOiJKV1QifQ.eyJzdWIiOiJnb29nbGUtb2F1dGgyfDExMTQ0OTE4MzIzNTI4NTQ0MjQ1MiIsInNjb3BlIjoib3BlbmlkIG9mZmxpbmVfYWNjZXNzIiwiaXNzIjoiYXBpX2tleV9pc3N1ZXIiLCJhdWQiOlsiaHR0cHM6Ly9uZWJpdXMtaW5mZXJlbmNlLmV1LmF1dGgwLmNvbS9hcGkvdjIvIl0sImV4cCI6MTkwMDE0MTQ0MiwidXVpZCI6ImQxNDM4NGNiLWY4M2YtNGM0ZS1iMTM0LTRjYzAyZWI3M2JjYyIsIm5hbWUiOiJVbm5hbWVkIGtleSIsImV4cGlyZXNfYXQiOiIyMDMwLTAzLTE5VDA5OjA0OjAyKzAwMDAifQ.vT6sRSfDAybzwT5tVU1zKIde6lRzuIf4vB4_9Z07h_0",
+    api_key="",
 )
  
 # Authentification GCP
