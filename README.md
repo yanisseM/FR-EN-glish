@@ -1,4 +1,4 @@
-🇬🇧 FR-EN-glish — Apprendre l'anglais par la conversation IA
+🇬🇧 FR-EN-glish — Apprendre l'anglais par la conversation IA - MOUNIB Yanisse - DURIMEL Terence
 FR-EN-glish est un projet d’intelligence artificielle conçu pour vous aider à améliorer votre anglais oral en discutant en temps réel avec une IA.
 
 🎯 Objectif
